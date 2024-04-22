@@ -8,7 +8,7 @@ This repository demonstrates how to leverage the LLama3 large language model fro
 4. accelerate library (pip install accelerate)
 5. A Hugging Face Hub account (optional, for accessing different Llama3 models)
 
-##Instructions:
+## Instructions:
 1. Clone this repository.
 ```bash
 git clone https://github.com/shaadclt/Llama3-HuggingFace.git
